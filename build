@@ -1,1 +1,1 @@
-javac --module-path javafx-windows --add-modules javafx.controls *.java
+javac --module-path javafx-linux --add-modules javafx.controls *.java
